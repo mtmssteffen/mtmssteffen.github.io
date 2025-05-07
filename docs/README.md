@@ -1,4 +1,3 @@
-# mtmssteffen.github.io
 # Who Are We?  Exploring the ethnic evolution of our ancestors over time and space
 
 ![1000 years of Migration](https://github.com/user-attachments/assets/c820a5e7-91c2-4560-b529-0bc2f87baa16)
@@ -17,5 +16,8 @@ Family history compiled, cleaned, labeled, merged, and analyzed from multiple so
 https://github.com/mtmssteffen/dsnd-communicating-to-stakeholders-lesson
  - Ancestor_data.csv:  Genealogy of ancestors, uniquely ID each individual, giving family surname, gendter, birth & death year & location, IDs of parents, and an intepretation of the country of origin.
  - FamilyAtlasPlacesGeocode.csv:  List of raw locations from Ancestor_data run through the Family Atlas geocoding tool to generate standard location names and latitute-longitude.  About half of the raw locations had automated matches, and close matches required manual review and updating.
+
+## Visualizing migration
+![scatter charts](https://github.com/user-attachments/assets/52efdfab-a2fe-4dc4-97b0-e797c5bfbf1a)
 
 
