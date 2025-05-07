@@ -1,6 +1,6 @@
 domain: mtmssteffen.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://mtmssteffen.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /docs/ 
+#baseurl: /docs/ 
 #theme: jekyll-theme-minimal
 title: mtmssteffen Project Blog
 description: Data Science Projects
