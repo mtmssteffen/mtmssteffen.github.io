@@ -1,6 +1,6 @@
 
-# Who Are We?
-## Identify and predict patterns in migration of ancestors by time period and country. 
+# Who Are We?  Exploring the Ethnic Evolution of Our Ancestors
+### Identify and predict patterns in migration of ancestors by time period and country. 
 
 ![1000 years of Migration](https://github.com/user-attachments/assets/479022e4-a12d-4cd9-ac84-75809e49cc08)
 
