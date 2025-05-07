@@ -2,7 +2,7 @@
 # Who Are We?
 ## Identify and predict patterns in migration of ancestors by time period and country. 
 
-https://github.com/user-attachments/assets/5b71cc86-e44f-4aea-ba98-d3b0d2bd081e
+![1000 years of Migration](https://github.com/user-attachments/assets/479022e4-a12d-4cd9-ac84-75809e49cc08)
 
 
 ## Learning objective / Business Understanding
