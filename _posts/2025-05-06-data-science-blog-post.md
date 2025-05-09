@@ -19,5 +19,19 @@ https://github.com/mtmssteffen/dsnd-communicating-to-stakeholders-lesson
  - Ancestor_data.csv:  Genealogy of ancestors, uniquely ID each individual, giving family surname, gendter, birth & death year & location, IDs of parents, and an intepretation of the country of origin.
  - FamilyAtlasPlacesGeocode.csv:  List of raw locations from Ancestor_data run through the Family Atlas geocoding tool to generate standard location names and latitute-longitude.  About half of the raw locations had automated matches, and close matches required manual review and updating.
 
+
+## Ancestor Relationships Representation for Modeling
+
+![Lineage Graph](https://github.com/user-attachments/assets/f41f7af4-746f-4521-b51f-8b5ece9c2990)
+
 ## Visualizing migration 
-![scatter charts](https://github.com/user-attachments/assets/3d26d7f5-11ad-435b-9dd3-0f953cde4a53)
+
+![scatter charts](https://github.com/user-attachments/assets/7f0a722b-40dd-4cdb-bd1c-5a4782663d81)
+
+
+## Visualizing migration over time
+
+![scatter charts by century](https://github.com/user-attachments/assets/e66dc1d7-c79b-431e-bc9a-69024c05578f)
+
+
+
