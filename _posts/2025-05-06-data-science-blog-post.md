@@ -10,24 +10,24 @@ Our ethinic identity is normally defined by a specific country or region our anc
 
 While most ancestors lived in the same location all their lives, at certain periods in history in certain countries family groups or individuals would move to a new country.  Visualizing the times and places of these major changes in ancestors lives can give insight into the life experiences that shaped their lives and lead to the places and times we now live in.  Genealogy records of life events such as birth and death dates and locations give the raw data for identifying these inflection points in our family's path.  However, this genealogy data is not in a consistent standard format, locations have changed names over the years and boundaries of countries have shifted, and many records give only dates but lack location.  
 
-This project makes a tentative first step in filling out the gaps in ancestor records by modeling the patterns of which time periods and which locations were more likely to have movement from ancestral homelands.  Specific business questions addressed include:
+This project makes a first step in filling out the gaps in ancestor records by modeling the patterns of which time periods and which locations were more likely to have movement from ancestral homelands.  Specific business questions addressed include:
 - Which countries were the home location ancestors originated from?
 - Which countries had the highest numbers of ancestors who migrated to other countries?
 - Which time periods had the highest numbers of ancestors who migrated to other countries?
 
-    
-
-    
 ## Data Sources / Data Understanding
-Family history compiled, cleaned, labeled, merged, and analyzed from multiple sources from 2009 - 2024, and summarized in:  
-https://github.com/mtmssteffen/dsnd-communicating-to-stakeholders-lesson
- - Ancestor_data.csv:  Genealogy of ancestors, uniquely ID each individual, giving family surname, gendter, birth & death year & location, IDs of parents, and an intepretation of the country of origin.
- - FamilyAtlasPlacesGeocode.csv:  List of raw locations from Ancestor_data run through the Family Atlas geocoding tool to generate standard location names and latitute-longitude.  About half of the raw locations had automated matches, and close matches required manual review and updating.
+Family history compiled, cleaned, labeled, merged, and analyzed from multiple sources from 2009 - 2024, and summarized in https://github.com/mtmssteffen/WhoAreWe
 
+ - `Ancestor_data.csv`:  Genealogy of ancestors, uniquely ID each individual, giving family surname, gender, birth & death year & location, IDs of parents, and an intepretation of the country of origin.  FamilySearch.com is the original source for the majority of the genealogy records, with some coming from BillionGraves.com, Ancestry.com, MyHeritage.com.  RootsMagic.com provide tools for extracting genealogy data and compiling in text csv files for analysis.
+ - `FamilyAtlasPlacesGeocode.csv`:  List of raw locations from Ancestor_data run through the Family Atlas geocoding tool to generate standard location names and latitute-longitude.  About half of the raw locations had automated matches, and close matches required manual review and updating.  The Family Atlas tools is provided by RootsMagic.com
+- `DSN-Project-2-6.ipynb`: Jupyter notebook with the complete CRISP-DM process including Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, Deployment
+- `amap.mp4`:  Animation of Estimated Country data from the Ancestor_data.csv file for comparison with the analysis and models created by this project.
 
-## Ancestor Relationships Representation for Modeling
+### Ancestor Relationships Representation for Modeling
 
 ![Lineage Graph](https://github.com/user-attachments/assets/f41f7af4-746f-4521-b51f-8b5ece9c2990)
+
+
 
 ## Visualizing migration 
 
