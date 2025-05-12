@@ -10,7 +10,12 @@ Our ethinic identity is normally defined by a specific country or region our anc
 
 While most ancestors lived in the same location all their lives, at certain periods in history in certain countries family groups or individuals would move to a new country.  Visualizing the times and places of these major changes in ancestors lives can give insight into the life experiences that shaped their lives and lead to the places and times we now live in.  Genealogy records of life events such as birth and death dates and locations give the raw data for identifying these inflection points in our family's path.  However, this genealogy data is not in a consistent standard format, locations have changed names over the years and boundaries of countries have shifted, and many records give only dates but lack location.  
 
-This project makes a tentative first step in filling out the gaps in ancestor records by modeling the patterns of which time periods and which locations were more likely to have movement from ancestral homelands.
+This project makes a tentative first step in filling out the gaps in ancestor records by modeling the patterns of which time periods and which locations were more likely to have movement from ancestral homelands.  Specific business questions addressed include:
+- Which countries were the home location ancestors originated from?
+- Which countries had the highest numbers of ancestors who migrated to other countries?
+- Which time periods had the highest numbers of ancestors who migrated to other countries?
+
+    
 
     
 ## Data Sources / Data Understanding
